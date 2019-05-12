@@ -1,0 +1,61 @@
+.sign .divform {
+	text-align:center;
+}
+#go {
+	text-decoration:none;
+	color:white;
+	background-color:green;
+	padding:5px;
+	padding-left:18px;
+	padding-right:18px;
+	border-radius:4px;
+}
+#go:hover {
+	color:maroon;
+	background-color:grey;
+	font-size:15px;
+	border:1px solid black;
+}
+.divform form {
+	background-color:#5e9a37;
+	padding:70px 80px 40px;
+	margin:0px;
+	display:block;
+}
+.brown {
+	background-color:#4b3625;
+	padding:10px;
+}
+#password, #name, #inputtext, #ausername, #aemail {
+	border-radius:4px;
+	border:1px solid maroon;
+	background-color:#d3d3d3;
+	font-family:Gabriola;
+	padding:5px;
+	font-size:14px;
+}
+#formsign {
+	border:2px solid maroon;
+	border-radius:10px;
+}
+#date {
+	border-radius:4px;
+	border:1px solid maroon;
+	background-color:#d3d3d3;
+	font-family:Gabriola;
+	padding:5px 15px 5px 15px;
+	font-size:14px;
+}
+.regdiv {
+	padding:0px;
+	margin:0px;
+	display:block;
+	text-align:center;
+	background-color:#5e9a37;
+	border:1px solid maroon;
+	border-radius:4px;
+}
+.regdiv .regform {
+	text-align:left;
+	padding: 100px 200px 10px;
+}
