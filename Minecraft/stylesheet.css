@@ -1,0 +1,132 @@
+body {
+	background-image:url(grass.png);
+	font-family:Copperplate Gothic;
+	color:white;
+}
+h2.h2i {
+	font-family:Copperplate Gothic;
+	font-size:40px;
+	color:lightblack;
+}
+.nav {
+	padding:15px;
+	margin:0px;
+	text-decoration:none;
+	text-align:center;
+	background-image:url(brick.png);
+	border:1px solid black;
+	border-radius:2px;
+}
+
+.nav ul {
+	padding:0px;
+	margin:0px;
+	list-style-type:none;
+	vertical-align:middle;
+}
+.nav ul li {
+	vertical-align: center;
+	display: inline;
+	padding-left:15px;
+	padding-right:15px;
+}
+.nav ul li a {
+	padding:12px;
+	line-height:15px;
+	padding-left:20px;
+	padding-right:20px;
+	text-decoration:none;
+	border-radius:3px;
+	font-size:14px;
+}
+.nav ul li a:link {
+	background-image:url(sign.png);
+	color:lightyellow;
+	padding-left:25px;
+	padding-right:25px;
+}
+.nav ul li a:hover {
+	background-color:lightgrey;
+	color:marron;
+	border: 1px solid black;
+	border-radius:3px;
+	font-size:17px;
+}
+.nav ul li a:active {
+	background-color:lightgrey;
+	color:marron;
+	border: 1px solid black;
+	border-radius:3px;
+	font-size:17px;
+}
+.account {
+	padding-bottom:6px;
+	margin-bottom:6px;
+	margin:8px;
+	text-decoration:none;
+	text-align:right;
+}
+.account ul {
+	padding:0px;
+	margin:0px;
+	list-style-type:none;
+	vertical-align:middle;
+}
+.account ul li {
+	vertical-align: center;
+	display: inline;
+	padding-left:15px;
+	padding-right:15px;
+}
+.account ul li a {
+	padding:6px;
+	line-height:10px;
+	padding-left:15px;
+	padding-right:15px;
+	text-decoration:none;
+	border-radius:3px;
+	font-size:12px;
+}
+.account ul li a:link {
+	background-color:green;
+	color:white;
+}
+.account ul li a:hover {
+	background-color:lightgrey;
+	color:black;
+	border: 1px solid black;
+	border-radius:3px;
+	font-size:13px;
+}
+#houseimg {
+	border:1px solid darkgreen;
+	border-radius:5px;
+	border-radius:5px;
+}
+.house #comment {
+	color:marron;
+	padding:10px;
+	border-radius:20px;
+	background-color:lightgrey;
+	border:1px solid black;
+	line-height:15px;
+	font-size:19px;
+	font-family:Gabriola;
+	display:inline-block;
+}
+.house #post {
+	color:black;
+	border-radius:15px;
+	padding:9px;
+	border:1px solid black;
+	text-decoration:none;
+	background-color:lightgrey;
+	display:inline;
+}
+.house #post a:hover {
+	color:blue;
+	background-color:white;
+}
+#pn {
+	color:marron;
+}
